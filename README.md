@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mumu12641/mumu12641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
