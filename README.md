@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/muuuuuuu_02" target="blank"><img src="https://img.shields.io/twitter/follow/muuuuuuu_02?logo=twitter&style=for-the-badge" alt="muuuuuuu_02" /></a> </p>
 
 - 📸 I’m an undergraduate at **[Huazhong University of Science and Technology(HUST)](https://www.hust.edu.cn/)**, School of Artificial Intelligience and Automation
-- :computer:I am from the Android Development Group of [Unique Studio](https://github.com/UniqueStudio)
+- :computer: I am from the Android Development Group of [Unique Studio](https://github.com/UniqueStudio)
 - 🌱 I’m currently learning **MIT6.S081 CS143 CSAPP**
 - 📫 How to reach me **pengbin020813@gmail.com**
 - :heart: Pronouns: He / Him
