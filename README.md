@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there 👋I am muuuuuu!
 
-# :tada:Appreciate your visitting for adding one to it ->![ViewCount](https://views.whatilearened.today/views/github/mumu12641/mumu12641.svg?cache=remove)
-
 <p align="left"> <a href="https://twitter.com/muuuuuuu_02" target="blank"><img src="https://img.shields.io/twitter/follow/muuuuuuu_02?logo=twitter&style=for-the-badge" alt="muuuuuuu_02" /></a> </p>
 
 - 📸 I’m an undergraduate at **[Huazhong University of Science and Technology(HUST)](https://www.hust.edu.cn/)**, School of Artificial Intelligience and Automation
