@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi there 👋I am muuuuuu!
 
 
-- 📸 I’m an undergraduate at **[Huazhong University of Science and Technology(HUST)](https://www.hust.edu.cn/)**, School of Artificial Intelligience and Automation
+- 📸 I am currently studying for my master's degree at the School of Computer Science and Technology of Huazhong University of Science and Technology, and my undergraduate degree is from the School of Artificial Intelligence and Automation of Huazhong University of Science and Technology.
 - :computer: I am from the Android Development Group of **[Unique Studio](https://github.com/UniqueStudio)**
 - 🌱 I’m currently learning **MIT6.S081 CS143 CSAPP**
 - 📫 How to reach me **pengbin020813@gmail.com**
